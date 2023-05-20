@@ -1,6 +1,6 @@
 # NFT_MARKETPLACE
 
-# Frontend: [Link](https://github.com/yoharsh14/NFT_MARKETPLACE_FRONTEND) 
+# FRONTEND: [Link](https://github.com/yoharsh14/NFT_MARKETPLACE_FRONTEND) 
 # BACKEND: [Link](https://github.com/yoharsh14/NFT_MARKETPLACE_BACKEND) 
 # GRAPH: [Link](https://github.com/yoharsh14/NFT_MARKETPLACE_GRAPH) 
 
